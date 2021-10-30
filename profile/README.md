@@ -2,6 +2,8 @@
 
 # App Choreography! 🎉🎊 
 This place is welcome to all!
+![AppChoreoBanner](https://user-images.githubusercontent.com/70807500/139558435-bfa3ab99-a1a5-4358-8133-3b183820de4b.png)
+
  
 
 Meet the owner of this org: [CodingSpecies](https://github.com/CodingSpecies)!
