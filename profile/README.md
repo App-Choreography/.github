@@ -2,7 +2,6 @@
 
 # App Choreography! 🎉🎊 
 This place is welcome to all!
- 
 
 Meet the owner of this org: [CodingSpecies](https://github.com/CodingSpecies)!
 
