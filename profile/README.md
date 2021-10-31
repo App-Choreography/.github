@@ -17,4 +17,6 @@ Here, you will earn how to make <b>apps </b>, polish on your <b>open source</b>,
 
 Meet the owner of this org: [CodingSpecies](https://github.com/CodingSpecies)! 🙋‍♀️
 
+<b> Why not ⭐ and 🍴 our repos? </b>
+
 </div>
