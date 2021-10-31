@@ -4,7 +4,16 @@
 
 ![AppChoreoBanner](https://user-images.githubusercontent.com/70807500/139558435-bfa3ab99-a1a5-4358-8133-3b183820de4b.png)
 
-# App Choreography! 🎉🎊 
-This place is welcome to all!
+<div align= center>
+<h2> App Choreography! 🎉🎊 </h2>
+💭<i>Choreograph <b> your </b> next app. </i>💭
+<br>
+<img src="https://forthebadge.com/images/badges/open-source.svg" height=30 /> <img src="https://forthebadge.com/images/badges/built-by-developers.svg" height=30/> <img src="https://forthebadge.com/images/badges/built-with-love.svg" height=30/> <img src="https://forthebadge.com/images/badges/check-it-out.svg" height=30 />
 
-Meet the owner of this org: [CodingSpecies](https://github.com/CodingSpecies)!
+Here, you will earn how to make <b>apps </b>, polish on your <b>open source</b>, <b> collaborate </b> and master the art of <b> Github </b> !
+
+<i> When you join App-Choreo, you will get a digital sticker explaining how you apre part of our community! </i>
+
+Meet the owner of this org: [CodingSpecies](https://github.com/CodingSpecies)! 🙋‍♀️
+
+</div>
