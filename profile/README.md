@@ -6,14 +6,14 @@
 
 <div align= center>
 <h2> App Choreography! 🎉🎊 </h2>
-💭<i>Choreograph <b> your </b> next app. </i>💭
+<h3>💭 ƈԋσɾҽσɠɾαρԋ ყσυɾ ɳҽxƚ αρρ! 💭</h3>
 <br/>
 <br/>
 <img src="https://forthebadge.com/images/badges/open-source.svg" height=30 /> <img src="https://forthebadge.com/images/badges/built-by-developers.svg" height=30/> <img src="https://forthebadge.com/images/badges/built-with-love.svg" height=30/> <img src="https://forthebadge.com/images/badges/check-it-out.svg" height=30 />
 
 Here, you will earn how to make <b>apps </b>, polish on your <b>open source</b>, <b> collaborate </b> and master the art of <b> Github </b> !
 
-<i> When you join App-Choreo, you will get a digital sticker explaining how you apre part of our community! </i>
+<i> When you join App-Choreo, you will get a digital sticker explaining how you a part of our community! </i>
 
 Meet the owner of this org: [CodingSpecies](https://github.com/CodingSpecies)! 🙋‍♀️
 
