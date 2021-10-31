@@ -13,7 +13,7 @@
 
 Here, you will earn how to make <b>apps </b>, polish on your <b>open source</b>, <b> collaborate </b> and master the art of <b> Github </b> !
 
-<i> When you join App-Choreo, you will get a digital sticker explaining how you a part of our community! </i>
+<i> When you join App-Choreo, you will get a digital sticker explaining how you are a part of our community! </i>
 
 Meet the owner of this org: [CodingSpecies](https://github.com/CodingSpecies)! 🙋‍♀️
 
