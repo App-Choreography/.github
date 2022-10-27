@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-![AppChoreoBanner](https://user-images.githubusercontent.com/70807500/139558435-bfa3ab99-a1a5-4358-8133-3b183820de4b.png)
+<img src="https://user-images.githubusercontent.com/70807500/198398482-999b658e-f3f3-4172-a570-a0e279e0c705.gif" height=400 width= 1600 />
 
 <div align= center>
 <h2> App Choreography! 🎉🎊 </h2>
