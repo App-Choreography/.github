@@ -11,7 +11,7 @@
 <br/>
 <img src="https://forthebadge.com/images/badges/open-source.svg" height=30 /> <img src="https://forthebadge.com/images/badges/built-by-developers.svg" height=30/> <img src="https://forthebadge.com/images/badges/built-with-love.svg" height=30/> <img src="https://forthebadge.com/images/badges/check-it-out.svg" height=30 />
 
-Here, you will earn how to make <b>apps </b>, polish on your <b>open source</b>, <b> collaborate </b> and master the art of <b> Github </b> !
+Here, you will learn how to make <b>apps </b>, polish on your <b>open source</b>, <b> collaborate </b> and master the art of <b> Github </b> !
 
 <i> When you join App-Choreo, you will get a digital sticker explaining how you are a part of our community! </i>
   
